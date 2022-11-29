@@ -1,4 +1,3 @@
-import random
 import turtle
 
 bob = turtle.Turtle()
