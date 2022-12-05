@@ -1,0 +1,5 @@
+A. a syntax error is thrown since a function must be called with parentheses
+B. a syntax error is thrown because an opening quotation mark must be closed by another one
+C. it trys to use it as an identifier for a variable which throws a name error
+D. it doesn't do anything since its already positive, but doesn't fail
+E. it adds 2 to positive 2, which equals 4 (in fact, you can put as many plus signs as you want)
