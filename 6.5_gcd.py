@@ -1,8 +1,4 @@
-def gcd(a, b):
-    for i in range(b):
-        n = b - i
-        if a % n == 0 and b % n == 0:
-            return n
+import math
 
 
-print(gcd(12, 16))
+print(math.gcd(12, 16))
