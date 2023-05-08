@@ -1,0 +1,5 @@
+update - a change to an existing variable
+initialization - the creation of a new variable
+decrement - update a variable of number type by minusing 1
+infinite loop - a loop with no break sequence meaning it will repeat forever while the program is running
+increment (i think) - update a variable of number type by adding 1

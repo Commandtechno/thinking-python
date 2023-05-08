@@ -1,0 +1,5 @@
+optional argument - function parameter that does not need to be provided (may have a default or just not be used if not specified)
+invocation - the calling of a defined function
+counter - variable meant to be incremented
+search - iterate over data to find a specific item
+traverse - recursively search through multiple or nested data

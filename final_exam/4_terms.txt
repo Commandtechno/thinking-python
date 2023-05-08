@@ -1,0 +1,1 @@
+object - aka dict or dictionary, fast storing and retrival of keys and values without iteration
