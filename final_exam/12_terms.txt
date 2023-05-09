@@ -1,0 +1,12 @@
+list - unordered set of values
+element - item in list
+accumulator - function that gathers the items in a list to output 1 value
+augmented assignment - updating a variable using its current value (example: increment)
+reduce - function that uses the accumulator function to turn a list into a single result
+map - running a function on every item in a list
+filter - use a function to remove or keep items in a list
+object - fast data type for key value storage and retrieval
+identical - exact copy of object
+reference - connection of variable and value (pointer)
+aliasing - assigning a new variable to an existing variable with no changes
+delimiter - separator in strings to represent a new element

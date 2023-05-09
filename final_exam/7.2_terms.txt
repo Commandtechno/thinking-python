@@ -1,0 +1,5 @@
+file object - object returned by open(filename) with various functions to interact with the file, can also be iterated line by line using a for loop
+reduction to a previously solved problem - comparing previous issues to new ones to solve them
+special case - uncommon case, usually as a testing value
+list - unordered set of values
+element - item in list

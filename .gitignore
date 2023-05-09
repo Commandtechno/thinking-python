@@ -3,3 +3,7 @@ dictionary.txt
 words.txt
 thinkpython.txt
 new_words.txt
+words_original.txt
+words_sorted_asc.txt
+words_sorted_desc.txt
+tracks.json
